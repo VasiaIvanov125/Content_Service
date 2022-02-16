@@ -1,0 +1,146 @@
+[
+    {
+        "model": "one_app.images",
+        "pk": 1,
+        "fields": {
+            "Image URL": "forest.jpg",
+            "Amount of show": "100",
+            "Categories": "forest,lake,island,mountains,trees,nature"
+        }
+    },
+    {
+        "model": "one_app.images",
+        "pk": 2,
+        "fields": {
+            "Image URL": "nature.jpg",
+            "Amount of show": "50",
+            "Categories": "nature,river,trees,mountains,stones,forest"
+        }
+    },
+    {
+        "model": "one_app.images",
+        "pk": 3,
+        "fields": {
+            "Image URL": "dandelions.jpg",
+            "Amount of show": "30",
+            "Categories": "nature,mountains,dandelions,trees,grass,"
+        }
+    },
+    {
+        "model": "one_app.images",
+        "pk": 4,
+        "fields": {
+            "Image URL": "mountain.jpg",
+            "Amount of show": "60",
+            "Categories": "mountains,nature,trees,river,grass,clouds"
+        }
+    },
+    {
+        "model": "one_app.images",
+        "pk": 5,
+        "fields": {
+            "Image URL": "clouds.jpg",
+            "Amount of show": "150",
+            "Categories": "clouds,nature,sky,lake,sun,"
+        }
+    },
+    {
+        "model": "one_app.images",
+        "pk": 6,
+        "fields": {
+            "Image URL": "sun.jpg",
+            "Amount of show": "100",
+            "Categories": "sun,space,star,,,"
+        }
+    },
+    {
+        "model": "one_app.images",
+        "pk": 7,
+        "fields": {
+            "Image URL": "planet.jpg",
+            "Amount of show": "120",
+            "Categories": "planet,space,Earth,ocean,land,"
+        }
+    },
+    {
+        "model": "one_app.images",
+        "pk": 8,
+        "fields": {
+            "Image URL": "ocean.jpg",
+            "Amount of show": "20",
+            "Categories": "ocean,water,sun,clouds,waves,"
+        }
+    },
+    {
+        "model": "one_app.images",
+        "pk": 9,
+        "fields": {
+            "Image URL": "waves.jpg",
+            "Amount of show": "40",
+            "Categories": "waves,water,sun,ocean,clouds,sky"
+        }
+    },
+    {
+        "model": "one_app.images",
+        "pk": 10,
+        "fields": {
+            "Image URL": "water.jpg",
+            "Amount of show": "50",
+            "Categories": "water,ocean,sky,clouds,sand,"
+        }
+    },
+    {
+        "model": "one_app.images",
+        "pk": 11,
+        "fields": {
+            "Image URL": "iceberg.jpg",
+            "Amount of show": "120",
+            "Categories": "iceberg,ocean,water,snow,people,boat"
+        }
+    },
+    {
+        "model": "one_app.images",
+        "pk": 12,
+        "fields": {
+            "Image URL": "penguins.jpg",
+            "Amount of show": "130",
+            "Categories": "snow,iceberg,water,penguins,mountains,"
+        }
+    },
+    {
+        "model": "one_app.images",
+        "pk": 13,
+        "fields": {
+            "Image URL": "boat.jpg",
+            "Amount of show": "70",
+            "Categories": "snow,boat,water,mountains,ocean,iceberg"
+        }
+    },
+    {
+        "model": "one_app.images",
+        "pk": 14,
+        "fields": {
+            "Image URL": "Milky_Way.jpg",
+            "Amount of show": "150",
+            "Categories": "space,Milky way,stars,trees,sky,forest"
+        }
+    },
+    {
+        "model": "one_app.images",
+        "pk": 15,
+        "fields": {
+            "Image URL": "Milky_Way_1.jpg",
+            "Amount of show": "170",
+            "Categories": "space,stars,trees,forest,Milky way,sky"
+        }
+    },
+    {
+        "model": "one_app.images",
+        "pk": 16,
+        "fields": {
+            "Image URL": "space.jpg",
+            "Amount of show": "130",
+            "Categories": "space,people,mountains,sky,Milky way,stars"
+        }
+    }
+]

@@ -1,0 +1,16 @@
+forest.jpg,100,forest,lake,island,mountains,trees,nature
+nature.jpg,50,nature,river,trees,mountains,stones,forest
+dandelions.jpg,30,nature,mountains,dandelions,trees,grass
+mountain.jpg,60,mountains,nature,trees,river,grass,clouds
+clouds.jpg,150,clouds,nature,sky,lake,sun
+sun.jpg,100,sun,space,star
+planet.jpg,120,planet,space,Earth,ocean,land
+ocean.jpg,20,ocean,water,sun,clouds,waves
+waves.jpg,40,waves,water,sun,ocean,clouds,sky
+water.jpg,50,water,ocean,sky,clouds,sand
+iceberg.jpg,120,iceberg,ocean,water,snow,people,boat
+penguins.jpg,130,snow,iceberg,water,penguins,mountains
+boat.jpg,70,snow,boat,water,mountains,ocean,iceberg
+Milky_Way.jpg,150,space,Milky way,stars,trees,sky,forest
+Milky_Way_1.jpg,170,space,stars,trees,forest,Milky way,sky
+space.jpg,130,space,people,mountains,sky,Milky way,stars

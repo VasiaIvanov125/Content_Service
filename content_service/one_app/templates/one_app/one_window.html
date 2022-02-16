@@ -1,0 +1,31 @@
+{% extends 'one_app/pattern_app.html' %}
+{% load static %}
+{% block title_text %}Home page{% endblock %}
+
+{% block window %}
+<div class="block_left">
+    <h2>Categories</h2>
+    <form method="post">
+        {% csrf_token %}
+        {{ form.cat_1 }}<br>
+        {{ form.cat_2 }}<br>
+        {{ form.cat_3 }}<br>
+        {{ form.cat_4 }}<br>
+        {{ form.cat_5 }}<br>
+        {{ form.cat_6 }}<br>
+        {{ form.cat_7 }}<br>
+        {{ form.cat_8 }}<br>
+        {{ form.cat_9 }}<br>
+        {{ form.cat_10 }}<br>
+        <button class="btn btn_request" type="submit">Request</button>
+    </form>
+</div>
+<div class="block_right">
+    <form method="GET">
+        <img src="{% static 'one_app/svg/add_img_icon.svg' %}">
+        <div class="need_categories">
+            <h3>Категории выбранного изображения</h3>
+        </div>
+    </form>
+</div>
+{% endblock %}
